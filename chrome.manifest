@@ -1,0 +1,2 @@
+content forwardemail-helper chrome/content/
+overlay chrome://messenger/content/messenger.xul chrome://forwardemail-helper/content/messenger.xul

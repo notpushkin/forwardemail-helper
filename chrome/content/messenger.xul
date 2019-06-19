@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+
+<overlay id="forwardemailHelperOverlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <script src="chrome://forwardemail-helper/content/messenger.js" type="text/javascript" />
+
+  <tree id="threadTree">
+    <treecols id="threadCols">
+      <splitter class="tree-splitter" />
+      <treecol
+        id="forwardemailHelperCol"
+        persist="width"
+        flex="4"
+        label="Correspondents"
+        tooltiptext="(Replaced with Reply-To when comes from forwardemail.net)"
+        ordinal="18"
+      />
+      <splitter class="tree-splitter" />
+    </treecols>
+  </tree>
+</overlay>
