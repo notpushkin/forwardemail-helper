@@ -9,7 +9,7 @@
     <em:version>1.0</em:version>
     <em:creator>Alexander Pushkov</em:creator>
     <em:description>Displays a custom “Correspondents” column that replaces its value with the Reply-To header if the email comes from no-reply@forwardemail.net.</em:description>
-    <em:homepageURL>https://gitlab.com/notpushkin/thunderbird-forwardemail-helper</em:homepageURL>
+    <em:homepageURL>https://gitlab.com/notpushkin/forwardemail-helper</em:homepageURL>
    
     <em:targetApplication>
       <Description>
